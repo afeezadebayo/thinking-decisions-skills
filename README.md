@@ -2,7 +2,7 @@
 
 [![5 skills](https://img.shields.io/badge/skills-5-0b7285)](#all-skills)
 [![Format: Agent Skills](https://img.shields.io/badge/format-SKILL.md-5f3dc4)](https://agentskills.io/specification)
-[![Licence: CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)](https://creativecommons.org/licenses/by/4.0/)
+[![Licence: CC BY 4.0](https://img.shields.io/badge/licence-CC%20BY%204.0-2b8a3e)](https://creativecommons.org/licenses/by/4.0/)
 
 Free **Agent Skills** (`SKILL.md`) that help Claude, Claude Code, OpenAI Codex and other AI agents support better thinking: define the right problem first, generate ideas that are genuinely different, choose with the right method, weigh trade-offs honestly and stress-test a plan before committing. The agent frames, widens and challenges; you decide.
 
